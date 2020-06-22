@@ -1,0 +1,11 @@
+h1[href="t1"]{
+    color: chartreuse;
+}
+
+h1[href="t2"]{
+    color: rgb(20%, 40%, 50%);
+}
+
+h1[href="t3"]{
+    color: rgba(69, 154, 9, 42);
+}

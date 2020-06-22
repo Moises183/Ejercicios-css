@@ -1,0 +1,9 @@
+body{
+    font-size: 20px;
+}
+
+div{
+    width: 50%;
+    background: black;
+    color: bisque;
+}

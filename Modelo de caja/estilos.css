@@ -1,0 +1,13 @@
+h1, p{
+    background: #ff8000;
+}
+
+div{
+    height: 120px;
+    width: 300;
+    background: #ff8000;
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px solid black;
+    display: inline-block;
+}

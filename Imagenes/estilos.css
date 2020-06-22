@@ -1,0 +1,12 @@
+div{
+    background: #ccc;
+    width: 310px;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px #424242;
+}
